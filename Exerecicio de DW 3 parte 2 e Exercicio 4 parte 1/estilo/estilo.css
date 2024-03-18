@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+    font-size: 80px
+}
+div{
+    color:aliceblue;
+    background-color: blueviolet;
+    min-height: 35px;
+
+}
+p1{
+    font-weight: bold;
+    background-color: aqua;
+    color:red
+}
+#fixa{
+    height: 30px ;
+    background-color: black;
+}
+#relativa{
+    height: 20vh;
+    background-color: aquamarine;
+}
+html{
+    font-family: "Lugrasimo", cursive;
+}
